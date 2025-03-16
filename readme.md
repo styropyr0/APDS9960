@@ -2,7 +2,7 @@
 
 The **APDS9960 Arduino Library** is a feature packed driver for interfacing with the APDS9960 sensor, a versatile device capable of ambient light sensing, color detection (RGB), proximity sensing, and gesture recognition. This library provides an easy-to-use interface to configure the sensor and retrieve processed data, making it ideal for Arduino-based projects requiring environmental sensing or touchless interaction.
 
-Developed by **Saurav Sajeev**, this library supports a wide range of functionalities, including enabling/disabling sensors, setting sensitivity levels, configuring interrupts, and interpreting gesture data.
+This library supports a wide range of functionalities, including enabling/disabling sensors, setting sensitivity levels, configuring interrupts, and interpreting gesture data.
 
 ## Features
 - **Ambient Light Sensing**: Measure ambient light levels and set interrupt thresholds.
