@@ -3,7 +3,8 @@
 
 #include <Arduino.h>
 #include "APDS9960DEFS.h"
-#include "SensorHub.h"
+#include <SensorHub.h>
+#include <SensorHubTemplates.h>
 
 #ifdef __cplusplus
 
