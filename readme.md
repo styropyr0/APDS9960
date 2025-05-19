@@ -173,4 +173,4 @@ This library is released under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Acknowledgments
 - Author: **Saurav Sajeev**
-- Built for the Arduino community with support from xAI’s Grok 3 (March 16, 2025).
+- Built for the Arduino community 
