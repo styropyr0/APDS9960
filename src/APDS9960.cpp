@@ -273,3 +273,8 @@ void APDS9960::printLog(String log)
     if (printLogs)
         Serial.println(log);
 }
+
+void APDS9960::clearInterrupts()
+{
+    sensorHub.i2c_execute(APDS_AICLEAR_REG, 0);
+}
