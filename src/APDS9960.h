@@ -205,6 +205,11 @@ public:
      * @returns A string representing the detected gesture.
      */
     String resolveGesture(Gesture gesture, uint8_t threshold);
+	
+	/**
+     * @brief Clears all previous interrupots.
+     */
+	void clearInterrupts();
 
 private:
     SensorHub sensorHub;
